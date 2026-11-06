@@ -1,1 +1,1 @@
-http://lavajatodoisirmaos.duckdns.org/
+https://alissonsantoos.github.io/lavajato/
